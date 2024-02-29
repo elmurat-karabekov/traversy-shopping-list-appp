@@ -96,6 +96,10 @@ header h1 {
   cursor: pointer;
 }
 
+.btn-link i {
+  pointer-events: none;
+}
+
 .btn-clear:hover {
   background-color: #f1f1f1;
 }
